@@ -1,3 +1,8 @@
+*.csv
+splitted_en/
+splitted_es/
+splitted_pt/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
