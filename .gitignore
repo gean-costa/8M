@@ -1,7 +1,9 @@
+*.xlsx
 *.csv
-splitted_en/
-splitted_es/
-splitted_pt/
+*.txt
+*.pkl
+*.npy
+*.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
