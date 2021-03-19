@@ -4,6 +4,7 @@
 *.pkl
 *.npy
 *.bin
+*.gzip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
